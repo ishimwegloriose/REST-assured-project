@@ -1,0 +1,41 @@
+{
+    "users": [
+        {
+            "firstName" : "Gloria",
+            "lastName" : "Anna",
+            "subjectId" : 1,
+            "id" : 1
+        },
+        {
+            "firstName" : "Benita",
+            "lastName" : "Abacu",
+            "subjectId" : 2,
+            "id" : 2
+        },
+        {
+            "firstName" : "Belinda",
+            "lastName" : "Nene",
+            "subjectId" : 1,
+            "id" : 3
+        },
+        {
+            "firstName" : "Danny",
+            "lastName" : "Benimana",
+            "subjectId" : 3,
+            "id" : 4
+        }
+    ],
+    "subjects": [
+        {
+            "subjectName": "Automation",
+            "id" : 1
+        },
+        {
+            "subjectName": "Automation",
+            "id" : 2
+        },{
+            "subjectName": "Automation",
+            "id" : 3
+        }
+    ]
+}
